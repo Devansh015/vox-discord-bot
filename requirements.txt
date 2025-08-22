@@ -1,4 +1,6 @@
-discord.py
+discord.py[voice]>=2.3.0
 pydub
 openai
 python-dotenv
+openai-whisper
+PyNaCl>=1.4.0
